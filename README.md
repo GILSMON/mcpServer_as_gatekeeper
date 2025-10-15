@@ -171,32 +171,4 @@ Have a policy pattern to share? PRs welcome!
 
 MIT
 
-## 🔗 Learn More
 
-- [Blog Post: Building AI Agent Governance](#) ← Your LinkedIn post
-- [MCP Protocol Docs](https://modelcontextprotocol.io)
-- [Research: Agentic Frameworks](https://github.com/yourusername/research-notes)
-
----
-
-**Built with:** Python • MCP SDK • Windsurf
-
-**Status:** ✨ Production-ready for pilot teams
-
----
-
-⭐ Star this repo if you're building with AI agents!
-```
-
----
-
-## Additional Files to Include
-
-**`.gitignore`:**
-```
-__pycache__/
-*.pyc
-.venv/
-venv/
-.DS_Store
-audit_log.json
